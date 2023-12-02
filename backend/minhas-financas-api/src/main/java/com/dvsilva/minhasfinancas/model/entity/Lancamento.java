@@ -26,8 +26,8 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NoArgsConstructor;
 
+
 @Entity
-@Table(name = "lancamento", schema = "financas")
 @Builder
 @Data
 @NoArgsConstructor
